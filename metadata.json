@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Copy of LungCare AI -AAA",
+  "description": "面向中国患者的肺癌全程管理双视界智能平台，具备OCR报告分析、智能副作用干预及医患互动功能。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
